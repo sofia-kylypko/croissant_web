@@ -10,6 +10,15 @@ body {
     margin: 0 auto;
 }
 /*  */
+.photo-page img {
+    width: 80%;
+    margin: auto;
+}
+/*  */
+.contact-page {
+    background-color: blanchedalmond;
+}
+/*  */
 .link-bar {
     display: flex;
     justify-content: space-evenly;
